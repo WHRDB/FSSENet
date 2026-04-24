@@ -17,7 +17,7 @@ To overcome the above limitations, we present a novel integrated framework, name
 Comparative experiments on two WBCD benchmark datasets show that the optimal FSSENet variant reaches advanced performance over other mainstream methods. Extensive ablation studies also verify the efficacy of core components and the robust generalization ability of the proposed FSSENet.
 
 ## 🚀 Framework
-
+![FSSENet Framework](framework.png)
 *(Suggestion: Place your framework.pdf or framework.png here from Figure 2 of the paper to make the repo attractive.)*
 
 ## 📂 Datasets
