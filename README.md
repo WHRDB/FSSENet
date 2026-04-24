@@ -7,7 +7,6 @@ This repository contains the official implementation of the paper: "FSSENet: A F
 ## 📢 News
 
 * **[2026-04-24]** The repository is created. 
-* **[Available Now]** All codes and implementation details are available at https://github.com/WHRDR/FSSENet.
 
 ## 📝 Abstract
 
@@ -19,7 +18,6 @@ Comparative experiments on two WBCD benchmark datasets show that the optimal FSS
 
 ## 🚀 Framework
 
-![FSSENet Framework](framework.png)
 *(Suggestion: Place your framework.pdf or framework.png here from Figure 2 of the paper to make the repo attractive.)*
 
 ## 📂 Datasets
