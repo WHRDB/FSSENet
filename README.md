@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper: "FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for Remote Sensing Water Body Change Detection".
 
-[cite_start]**Authors:** [Haoran Wang], [Quanqing Ma], [Peng Wang], [Jiaen Chen], [Qingzhan Zhao], [Xuewen Wang], [Yuchen Zheng]
+**Authors:** [Haoran Wang], [Quanqing Ma], [Peng Wang], [Jiaen Chen], [Qingzhan Zhao], [Xuewen Wang], [Yuchen Zheng]
 
 ## 📢 News
 
