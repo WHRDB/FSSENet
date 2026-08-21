@@ -18,7 +18,7 @@ Comparative experiments on two WBCD benchmark datasets show that the optimal FSS
 
 ## 🚀 Framework
 
-*(Suggestion: Place your framework.pdf or framework.png here from Figure 2 of the paper to make the repo attractive.)*
+![Overall framework of the proposed FSSENet](./Over_farmwork/over_farmwork.png)
 
 ## 📂 Datasets
 
