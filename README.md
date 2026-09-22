@@ -6,7 +6,9 @@ This repository contains the official implementation of the paper: "FSSENet: A F
 
 ## 📢 News
 
-* **[2026-04-24]** The repository is created. 
+* **[2026-09-03]** Our paper was officially published in Pattern Recognition.
+* **[2026-08-25]** Our paper was accepted for publication in Pattern Recognition.
+* **[2026-04-24]** The repository is created.
 
 ## 📝 Abstract
 
