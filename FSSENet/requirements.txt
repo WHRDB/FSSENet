@@ -1,0 +1,17 @@
+numpy==1.23.5
+scipy==1.15.3
+matplotlib==3.10.3
+Pillow==11.2.1
+opencv-python==4.11.0.86
+mmengine==0.10.7
+mmsegmentation==1.2.2
+mmpretrain==1.0.1
+mmdet==3.0.0
+ftfy==6.3.1
+regex==2024.11.6
+einops==0.8.1
+timm==1.0.24
+prettytable==3.16.0
+yapf==0.43.0
+addict==2.4.0
+opencd @ git+https://github.com/likyoo/open-cd.git@f05e7fdfe1e0f9a9afa9d6c063ea03b43345226e
