@@ -1,18 +1,16 @@
-FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for Remote Sensing Water Body Change Detection
+# FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for Remote Sensing Water Body Change Detection
 
-This repository contains the official implementation of the paper: "FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for Remote Sensing Water Body Change Detection".
+This repository contains the official implementation of the paper: [FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for Remote Sensing Water Body Change Detection](https://doi.org/10.1016/j.patcog.2026.114829).
 
-Authors: [Haoran Wang], [Quanqing Ma], [Peng Wang], [Jiaen Chen], [Qingzhan Zhao], [Xuewen Wang], [Yuchen Zheng]
+**Authors:** Haoran Wang, Quanqing Ma, Peng Wang, Jiaen Chen, Qingzhan Zhao, Xuewen Wang, Yuchen Zheng
 
-📢 News
+## 📢 News
 
-[2026-09-03] Our paper was officially published in Pattern Recognition.
+* **[2026-09-03]** Our paper was officially published in Pattern Recognition.
+* **[2026-08-25]** Our paper was accepted for publication in Pattern Recognition.
+* **[2026-04-24]** The repository was created.
 
-[2026-08-25] Our paper was accepted for publication in Pattern Recognition.
-
-[2026-04-24] The repository is created.
-
-📝 Abstract
+## 📝 Abstract
 
 Water Body Change Detection (WBCD) in remote sensing focuses on automatically delineating surface water dynamic changes via bi-temporal imagery covering the same geographic area. This task faces critical challenges, primarily brought by the complexity arising from the diverse semantic information of water bodies. Meanwhile, existing mainstream WBCD models struggle to fully capture the complicated semantics and continuity of water bodies, especially under diverse environmental backgrounds.
 
@@ -20,32 +18,34 @@ To overcome the above limitations, we present a novel integrated framework, name
 
 Comparative experiments on two WBCD benchmark datasets show that the optimal FSSENet variant reaches advanced performance over other mainstream methods. Extensive ablation studies also verify the efficacy of core components and the robust generalization ability of the proposed FSSENet.
 
-🚀 Framework
+## 🚀 Framework
 
+![Overall framework of the proposed FSSENet](./Over_farmwork/over_farmwork.jpg)
 
-
-📂 Datasets
+## 📂 Datasets
 
 We comprehensively evaluate the proposed FSSENet through extensive experiments across two public benchmark WBCD datasets:
 
-HSRW-CD: Consists of 2,085 satellite image pairs collected from complex environmental scenarios and diverse regions, covering multiple water body types including urban waterways, natural river systems, lacustrine zones, and man-made reservoirs. Paper
+* **HSRW-CD** ([Paper](https://doi.org/10.1016/j.patcog.2026.114925)): Consists of 2,085 satellite image pairs collected from complex environmental scenarios and diverse regions, covering multiple water body types including urban waterways, natural river systems, lacustrine zones, and man-made reservoirs.
 
-Water-CD: Encompasses China seasonal lakes distributed across the Yangtze River Basin, alongside diverse South Asia seasonal water bodies in the Jumna River region.
+* **Water-CD:** Encompasses China seasonal lakes distributed across the Yangtze River Basin, alongside diverse South Asia seasonal water bodies in the Jumna River region.
 
-📦 Pretrained Weights
+## 📦 Pretrained Weights
 
-The pretrained weights are available on Google Drive.
+The pretrained weights are available on [Google Drive](https://drive.google.com/drive/folders/1H9jPODTf1DSBDV7wSD1vGqiAJXHIxavo?usp=sharing).
 
-📖 Citation
+## 📖 Citation
 
 If you find this work useful in your research, please cite our paper:
 
+```bibtex
 @article{WANG2027114829,
-  title = {FSSENet: A Foundation Model-Based Semantic-Structural Enhanced Network for remote sensing water body change detection},
+  title = {{FSSENet}: A Foundation Model-Based Semantic-Structural Enhanced Network for remote sensing water body change detection},
   journal = {Pattern Recognition},
   volume = {182},
   pages = {114829},
   year = {2027},
-  doi = {https://doi.org/10.1016/j.patcog.2026.114829},
+  doi = {10.1016/j.patcog.2026.114829},
   author = {Haoran Wang and Quanqing Ma and Peng Wang and Jiaen Chen and Qingzhan Zhao and Xuewen Wang and Yuchen Zheng},
 }
+```
